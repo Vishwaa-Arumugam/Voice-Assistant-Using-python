@@ -1,0 +1,17 @@
+Libraries to be imported,
+
+datetime
+webbrowser
+pyautogui
+pyttsx3
+speech recognition
+selenium
+webdriver
+time
+sys
+os
+wikipedia
+selenium.keys
+PyQt5, QtGui, QTCore, QTimer,QDate
+PyQt5.widgets
+
