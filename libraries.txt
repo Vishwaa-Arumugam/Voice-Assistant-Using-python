@@ -1,4 +1,4 @@
-Libraries to be imported,
+Libraries used in this project,
 
 datetime
 webbrowser
@@ -14,4 +14,3 @@ wikipedia
 selenium.keys
 PyQt5, QtGui, QTCore, QTimer,QDate
 PyQt5.widgets
-
